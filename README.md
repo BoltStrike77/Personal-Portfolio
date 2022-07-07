@@ -1,3 +1,3 @@
-# Advay Vyas' Website
+# Advay Vyas' Portfolio
 
 ## boltstrike77.github.io
