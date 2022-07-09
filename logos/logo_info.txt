@@ -1,7 +1,5 @@
-
-            Fonts used: Lato-Bold 
-
-            Colors used: 495FA6,F6AE84  
+Fonts used: Lato-Bold 
+Colors used: 495FA6,F6AE84  
 
               
         
