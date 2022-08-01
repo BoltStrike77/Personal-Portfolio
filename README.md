@@ -1,3 +1,3 @@
-# Advay Vyas' Portfolio (Work in Progress)
+# Advay Vyas' Portfolio (Work In Progress)
 
 ## <a href="boltstrike77.github.io">boltstrike77.github.io</a>
